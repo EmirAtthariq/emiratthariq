@@ -1,5 +1,5 @@
 ## Hi, My Name is Emir Ismail Atthariq👋
-I'm currently a Computer Science student at Telkom University
+I'm a Computer Science student at Telkom University
 
   - 🌱 currently learning Kotlin
 
