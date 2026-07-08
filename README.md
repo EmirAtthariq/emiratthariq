@@ -1,4 +1,4 @@
-## Hi, My Name is Emir Ismail Atthariq👋
+## Hi, My Name is Emir👋
 I'm a Computer Science student at Telkom University
 
   - currently learning Flutter
